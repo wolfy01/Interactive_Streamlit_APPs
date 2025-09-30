@@ -1,0 +1,12 @@
+[
+    {
+        "task": "call mom",
+        "due": "2025-10-01 23:30",
+        "status": "pending"
+    },
+    {
+        "task": "call dad",
+        "due": "2025-09-30 23:15",
+        "status": "completed"
+    }
+]

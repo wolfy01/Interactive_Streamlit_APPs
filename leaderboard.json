@@ -1,0 +1,22 @@
+{
+    "Nihal": {
+        "Wins": 1,
+        "Losses": 0,
+        "Ties": 0
+    },
+    "Molly": {
+        "Wins": 0,
+        "Losses": 1,
+        "Ties": 0
+    },
+    "You (X)": {
+        "Wins": 0,
+        "Losses": 0,
+        "Ties": 2
+    },
+    "Computer (O)": {
+        "Wins": 0,
+        "Losses": 0,
+        "Ties": 2
+    }
+}
