@@ -56,8 +56,8 @@ This repository contains **four interactive applications** built with [Streamlit
 
    - See weak topics and average performance trends. 
 
-   - requirements 
-   **pip install streamlit transformers torch torchvision torchaudio huggingface_hub sentencepiece PyPDF2 pandas**
+## requirements for NovaLearnAI 
+   - **pip install streamlit transformers torch torchvision torchaudio huggingface_hub sentencepiece PyPDF2 pandas**
    - if you have Cuda (GPU) **pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121** (install compatibale version of cuda)
 
 
